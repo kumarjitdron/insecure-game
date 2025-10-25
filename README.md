@@ -5,7 +5,7 @@ This project is an **intentionally vulnerable Android application** created **fo
 It contains multiple challenges that simulate real-world vulnerabilities — allowing safe experimentation in a controlled environment.
 
 > ⚠️ **Disclaimer:**  
-> This app is designed **only for learning and research**. Do **not** use any of these techniques on applications or systems you do not own or have permission to test.
+> This app is designed **only for learning and research**.
 
 ---
 
